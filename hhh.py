@@ -1,4 +1,4 @@
 #!/bin/bash
-print("hello word")
-print("hhh")
-print("xxx")
+print("qaq")
+print("qaq")
+print("qaq")
